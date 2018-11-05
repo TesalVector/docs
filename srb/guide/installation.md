@@ -7,7 +7,7 @@ description: Početak sa Nuxt.js je stvarno lak. Jednostavan projekat zahteva sa
 
 ## Koristite osnovni šablon Nuxt.js
 
-Da bi brzo započeli sa razvojem naše aplikacije, tim Nuxt.js je kreirao šablon za pokretanje [create-nuxt-app](https://github.com/nuxt/create-nuxt-app).
+Da bi brzo započeli sa razvojem aplikacije, tim Nuxt.js je kreirao šablon za pokretanje [create-nuxt-app](https://github.com/nuxt/create-nuxt-app).
 
 Proveri te da li imate instaliran [npx](https://www.npmjs.com/package/npx) (`npx` se isporučuje po difoltu od NPM `5.2.0` verzije)
 
