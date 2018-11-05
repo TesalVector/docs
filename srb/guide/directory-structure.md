@@ -71,13 +71,13 @@ _Ovaj direktori ne možese preimenovati bez dodatne konfiguracije._
 
 [Za više detalja o implemetaciji `nuxt.config.js` datoteke](/guide/configuration)
 
-### Package.json File
+### Package.json datoteka
 
 `package.json` datoteka sdrži vaše zavisnosti i skripte vaše aplikacije.
 
 _Ova datoteka se ne može preimenovati._
 
-## Aliases (pseudonimi)
+## Aliases
 
 | Alias | Direktorij |
 |-----|------|
