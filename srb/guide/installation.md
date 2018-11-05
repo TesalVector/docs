@@ -72,7 +72,7 @@ $ cd <project-name>
 
 <div class="Alert Alert--nuxt-green">
 
-<b>Informacija:</b> umesto <code>&lt;project-name&gt;</nom-du-projet></code> stavite vaš naziv projekta.
+<b>Info:</b> umesto <code>&lt;project-name&gt;</nom-du-projet></code> stavite vaš naziv projekta.
 
 </div>
 
